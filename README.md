@@ -20,7 +20,7 @@
     |------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
     |        | ; | Q | J | K | X | B | M | W | V | Z |          |
     |------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
-    | ctrl |  | alt |            Space           | alt  |  | ctrl |
+    | ctrl |  | alt |            Space         | alt  |  | ctrl |
     '------'  '-----'--------------------------'------'  '------'
   </pre>
 </div>
@@ -89,6 +89,7 @@ Trabalho principalmente com *Java, TypeScript/Node.js e Python*, aplicando Clean
 > Parser com algoritmo Shunting-Yard e AST, suportando aritmética de números complexos.
 *  `Java` `Shunting-Yard` `AST`
 
+#
 
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
@@ -120,6 +121,5 @@ Trabalho principalmente com *Java, TypeScript/Node.js e Python*, aplicando Clean
   [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:rodsondeveloper@gmail.com)](mailto:rodsondeveloper@gmail.com)
   ![Profile Views](https://komarev.com/ghpvc/?username=RodsonSSJunior&color=grey&label=views)
  
-   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:808080,100:ffffff&height=100&section=footer&animation=fadeIn" />
 </div>
