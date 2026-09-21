@@ -20,7 +20,7 @@
     |------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
     |        | ; | Q | J | K | X | B | M | W | V | Z |          |
     |------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
-    | ctrl |  | alt |            Space         | alt  |  | ctrl |
+    | ctrl |  | alt |            Space           | alt  |  | ctrl |
     '------'  '-----'--------------------------'------'  '------'
   </pre>
 </div>
@@ -45,8 +45,8 @@ Trabalho principalmente com *Java, TypeScript/Node.js e Python*, aplicando Clean
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6)
 
-<!-- Dados & Bases de Dados -->
-╰─ Data Science & Machine Learning: 
+<!-- Bancos de Dados & Machine Learning -->
+╰─ Bancos de Dados & Machine Learning: 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -55,7 +55,7 @@ Trabalho principalmente com *Java, TypeScript/Node.js e Python*, aplicando Clean
 ![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=4DABCF)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
-<!-- Ferramentas & Ecossistema -->
+<!-- Ferramentas & Workflow -->
 ╰─ Ferramentas & Workflow: 
 
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
@@ -77,28 +77,27 @@ Trabalho principalmente com *Java, TypeScript/Node.js e Python*, aplicando Clean
 <!-- ════════════════════════ PROJECTS ════════════════════════ -->
 ### Projetos em Destaque
 
- **[Sistema de Gestão para Restaurante (404 Café)](https://github.com/RodsonSSJunior/gerenciamento-de-reservas)**
+ **[Sistema de Gestão para Restaurante (404 Café)](https://github.com/RodsonSSJunior/NOME-DO-REPO)**
 > API em Node.js/TypeScript com arquitetura desacoplada em Casos de Uso, Repository e Factory Pattern, controlo de acesso por perfil e relatórios de fluxo operacional.
 *  `Node.js` `TypeScript` `Clean Architecture`
 
- **[Classificador de Spam com Machine Learning](https://github.com/RodsonSSJunior/spam-classifier-ml)**
+ **[Classificador de Spam com Machine Learning](https://github.com/RodsonSSJunior/NOME-DO-REPO)**
 > Pipeline de NLP com TF-IDF em N-Grams, alcançando 99,42% de precisão e zero falsos-positivos no conjunto de teste.
 *  `Python` `Scikit-Learn` `NLP`
 
- **[Engine de Expressões Matemáticas em Java](https://github.com/Unifacs-Portfolio/calculadora-cientifica)**
+ **[Engine de Expressões Matemáticas em Java](https://github.com/RodsonSSJunior/NOME-DO-REPO)**
 > Parser com algoritmo Shunting-Yard e AST, suportando aritmética de números complexos.
 *  `Java` `Shunting-Yard` `AST`
 
-#
 
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 <div align="center">
 
   <!-- Typing SVG -->
-  [![typing](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=460&height=30&lines=%E2%96%B8+GITHUB+STATS+%E2%80%94+welcome_;%E2%96%B8+%CB%96%E2%8A%B9%F0%96%A5%94+Point%2C+Click%2C+Explore)](https://github.com/RodsonSSJunior)
+  [![typing](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=FFFFFF&center=true&vCenter=true&width=460&height=30&lines=%E2%96%B8+GITHUB+STATS+%E2%80%94+welcome_;%E2%96%B8+%CB%96%E2%8A%B9%F0%96%A5%94+Point%2C+Click%2C+Explore)](https://github.com/RodsonSSJunior)
 
   <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Lou-izy/Lou-izy/output/github-contribution-grid-snake.svg" alt="snake output" width="100%" />
+  <img src="https://raw.githubusercontent.com/RodsonSSJunior/RodsonSSJunior/output/github-contribution-grid-snake.svg" alt="snake output" width="100%" />
 
   <br>
 
